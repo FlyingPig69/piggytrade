@@ -35,22 +35,6 @@
         "dec_in": 0,
         "dec_out": 3
     },
-    "ACT": {
-        "id": "40f5a7fe103ffef5619fc3887f39676ac6a08342f9e06dab5fff9a16e8cb8fd3",
-        "pid": "d8e2a257e8cb97139ddb3f6e288bfc84cc4ca8194c83d697c0c6ca7118f26bc8",
-        "lp": "88f590090e19fc3e3005cd1fede2ded3cf3f65fdfc4b28bc8f0378986fd87a5a",
-        "fee": 0.005,
-        "R4": "04c60f",
-        "dec": 0
-    },
-    "ADA": {
-        "id": "944f72c571f7e894fe75fe5b351cdc67ea2fa6daa538321d72f759d551b1d147",
-        "pid": "c0070feda814a6d74f97ac24444976a4d07aae9d2645874732df99e94617bfdb",
-        "lp": "88d61bf95b1ca83ed0b008ab889cb531e550f4a89c09385b6bb18e583ab88055",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 6
-    },
     "AHT": {
         "id": "18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d",
         "pid": "92b1600f001b3f03d7152d7da90ebe6b46fc43edd9f325adbf1677b443520dcb",
@@ -99,14 +83,6 @@
         "R4": "04940f",
         "dec": 0
     },
-    "Ce n'est pas un punk.": {
-        "id": "bdeb56c40780249f8545f021e308a3da27bc92c44c102ef588e2d47c0b3c0679",
-        "pid": "2a133c39c99ccbec5e24c57d843ff191a21f052188e32355db8215a5108f3e98",
-        "lp": "f04ee1eba351866288b78ff2ad8813ab434a784f2605343c5cdc7fe0f2429e24",
-        "fee": 0.05,
-        "R4": "04ec0e",
-        "dec": 0
-    },
     "COMET": {
         "id": "0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b",
         "pid": "1f01dc8e29806d96ca0b79f8e798cd8cfce51c0e676aaedf6ab3464b37da9dfd",
@@ -131,6 +107,14 @@
         "R4": "04ca0f",
         "dec": 4
     },
+    "DexyGold": {
+        "id": "6122f7289e7bb2df2de273e09d4b2756cda6aeb0f40438dc9d257688f45183ad",
+        "pid": "905ecdef97381b92c2f0ea9b516f312bfb18082c61b24b40affa6a55555c77c7",
+        "lp": "cf74432b2d3ab8a1a934b6326a1004e1a19aec7b357c57209018c4aa35226246",
+        "fee": 0.003,
+        "R4": "04ca0f",
+        "dec": 0
+    },
     "DexyGold-AuctionCoin": {
         "id_in": "6122f7289e7bb2df2de273e09d4b2756cda6aeb0f40438dc9d257688f45183ad",
         "id_out": "52f4544ce8a420d484ece16f9b984d81c23e46971ef5e37c29382ac50f80d5bd",
@@ -140,14 +124,6 @@
         "R4": "04ca0f",
         "dec_in": 0,
         "dec_out": 0
-    },
-    "DOBER": {
-        "id": "fe40fc4215230c23e2bb2684ed2816b40daf2d6a8b14c34a405064e661afed05",
-        "pid": "a80edf152f553a6691ff7132107c1dcbe7ebfb6845b044a2f56963edeba79406",
-        "lp": "428dcb3e55ace4ed02ad69188b968a03031d118dd57c8b782cc5294f9ad013f7",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 9
     },
     "Donald Duck 100x ": {
         "id": "a500898895f20a86122fb86ef82f6eb2467fed1c0b7243373af32eac0ad8bdda",
