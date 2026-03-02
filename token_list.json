@@ -329,14 +329,6 @@
         "R4": "04bc0f",
         "dec": 5
     },
-    "Honey": {
-        "id": "573e91563cc54ec69946a336610b75033d5a19e6de5134f2d2b6af21dcf97173",
-        "pid": "ddd19bf3d81b8d2c3d9ca761db527e1420df805a403d84b245416f33536f7c37",
-        "lp": "55b324f4b8da080a5049901056d4f5facb3869376bbd245a695cd94dbd3cdb1e",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 2
-    },
     "kushti": {
         "id": "fbbaac7337d051c10fc3da0ccb864f4d32d40027551e1c3ea3ce361f39b91e40",
         "pid": "3d648a56fc4749fe7822a25c0abe6afba7965885880815ad4bfafae5dca7237f",
@@ -381,16 +373,6 @@
         "dec_in": 2,
         "dec_out": 4
     },
-    "MEW-🚬": {
-        "id_in": "6c35aa395c7c75b0f67f7804d6930f0e11ef93c3387dc1faa86498d54af7962c",
-        "id_out": "ebb40ecab7bb7d2a935024100806db04f44c62c33ae9756cf6fc4cb6b9aa2d12",
-        "pid": "b10934510972c8d6bcdb95791a24609a5f1c1a13fcb731023842da7391c4ce1b",
-        "lp": "4d48dd4bb391a6940dd37bb10d70b98af393719b68a2daf04dd3200084183700",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec_in": 2,
-        "dec_out": 0
-    },
     "Mi Goreng ": {
         "id": "0779ec04f2fae64e87418a1ad917639d4668f78484f45df962b0dec14a2591d2",
         "pid": "fff5e73c7c8c61335d8c4ab18a2d09029e1c9131ed195c4e0ceccf9dd0c03d7f",
@@ -414,14 +396,6 @@
         "fee": 0.003,
         "R4": "04ca0f",
         "dec": 0
-    },
-    "OINK": {
-        "id": "24c380b40c934db2273affc782e091df28c965f1e513f8f5f09fc1d12646ecf2",
-        "pid": "0ee97f1e9093c5f084416edf792ff3b1687872bec3d314b00fa39a01dd803c6c",
-        "lp": "33d3feccf7a319e24e0a49b725cd8d8f8950149683b89a84a0a544ee3cb6cf18",
-        "fee": 0.03,
-        "R4": "04940f",
-        "dec": 2
     },
     "Paideia": {
         "id": "1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489",
@@ -686,6 +660,14 @@
         "fee": 0.01,
         "R4": "04bc0f",
         "dec": 0
+    },
+    "USE": {
+        "id": "a55b8735ed1a99e46c2c89f8994aacdf4b1109bdcf682f1e5b34479c6e392669",
+        "pid": "4ecaa1aac9846b1454563ae51746db95a3a40ee9f8c5f5301afbe348ae803d41",
+        "lp": "804a66426283b8281240df8f9de783651986f20ad6391a71b26b9e7d6faad099",
+        "fee": 0.003,
+        "R4": "04ca0f",
+        "dec": 3
     },
     "∑rgonaut": {
         "id": "3e0b62c7bc36bc7abf2bf76303722c31788aa579d771e427a0b2c8357da160ba",
