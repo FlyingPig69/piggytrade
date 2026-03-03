@@ -41,14 +41,6 @@
         "R4": "04ca0f",
         "dec": 3
     },
-    "BUNS": {
-        "id": "abe0a3c2f646dcd430aac9c29d80feee865bd8b5231edb545a41105d4c8e4985",
-        "pid": "64e3acb3b3e9363c09338e4d02413f188351749e54dad54f4237bb4c406f511e",
-        "lp": "b56d02a6f6d351dff23c61a48a153ba0dbb692ddb529f92961e87aa2f058bea2",
-        "fee": 0.042,
-        "R4": "04fc0e",
-        "dec": 4
-    },
     "BURN": {
         "id": "a399dcd79a68eea82df4e9b30a11c61a96a671e767924c0cef2148fec9270df6",
         "pid": "b98a03dcfc2094fe83fecafc9b1a4a6064c177f5e63ffadbb9621c32f7dd78a0",
@@ -274,16 +266,6 @@
         "fee": 0.003,
         "R4": "04ca0f",
         "dec": 0
-    },
-    "love-🤡": {
-        "id_in": "3405d8f709a19479839597f9a22a7553bdfc1a590a427572787d7c44a88b6386",
-        "id_out": "bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e",
-        "pid": "f323b5e471dfd555247a6e0858febb1efa9ee7bdd1b0a5b7c02d3c651a4a7b85",
-        "lp": "430826a82e714c549a113626bfec3b344e2d6452f4b5a16b9194f68362c8d112",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec_in": 0,
-        "dec_out": 3
     },
     "MEW": {
         "id": "6c35aa395c7c75b0f67f7804d6930f0e11ef93c3387dc1faa86498d54af7962c",
@@ -565,12 +547,4 @@
         "R4": "04ca0f",
         "dec": 3
     },
-    "∑rgonaut": {
-        "id": "3e0b62c7bc36bc7abf2bf76303722c31788aa579d771e427a0b2c8357da160ba",
-        "pid": "945747ffc0b105449845b557e4b3d997eef95ea91e9afc58deb3c217098c980b",
-        "lp": "87125f824386ad8cb65f8c047ed4f4fc8b95142d9816ac505fe32869f8c69f82",
-        "fee": 0.003,
-        "R4": "04ca0f",
-        "dec": 4
-    }
 }
