@@ -1,12 +1,4 @@
 {
-    "Rubber": {
-        "id": "3ad0d09d24664f3b70d9b738a027782c337ab13e0ade901d0adc414a5ead64fd",
-        "pid": "6caaa4d9cf67d878bde2e5b5a03b73b6c0f0c0092c7ecc2156496c03ac002b53",
-        "lp": "d4245337d5e6c9210fc48932a68fae7aa97f6216e1352600f747575c2e701fb4",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 2
-    },
     "$Lambo": {
         "id": "0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91",
         "pid": "15242ab98f89db195faa9115acb4beebb0defe4827689b82e8ba92f81d88ddfb",
@@ -24,16 +16,6 @@
         "R4": "04ce0f",
         "dec_in": 0,
         "dec_out": 0
-    },
-    "$Lambo-🤡": {
-        "id_in": "0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91",
-        "id_out": "bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e",
-        "pid": "3ccdb0f65212b53c789dbb5ce76b8c948bda1ccd4389383795cd3639c3b5996e",
-        "lp": "20c3f267dc6c72c106b55a1b3632f050d82ba92d9a4a98905eb1ea91478e4d67",
-        "fee": 0.003,
-        "R4": "04ca0f",
-        "dec_in": 0,
-        "dec_out": 3
     },
     "AHT": {
         "id": "18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d",
@@ -125,14 +107,6 @@
         "dec_in": 0,
         "dec_out": 0
     },
-    "Donald Duck 100x ": {
-        "id": "a500898895f20a86122fb86ef82f6eb2467fed1c0b7243373af32eac0ad8bdda",
-        "pid": "4a6cbb09284728348ffb123f0169592390cd9dd3649870e37ea888f7adf0b577",
-        "lp": "c562dcae79400ae5432012b466d8865bf291e075a0d0e5a2787c156c449a2108",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 0
-    },
     "DORT": {
         "id": "ae399fcb751e8e247d0da8179a2bcca2aa5119fff9c85721ffab9cdc9a3cb2dd",
         "pid": "35bc71897cd44d1a624285c54a0be66b69d1c61674603ed89dfe136f32035f0e",
@@ -158,16 +132,6 @@
         "fee": 0.004,
         "R4": "04c80f",
         "dec": 4
-    },
-    "EGIO-$Lambo": {
-        "id_in": "00b1e236b60b95c2c6f8007a9d89bc460fc9e78f98b09faec9449007b40bccf3",
-        "id_out": "0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91",
-        "pid": "d727f580b2042f0280af6ab148667d809d3be3ea7b6c337d182b273e980556fb",
-        "lp": "8cac2e068e499b7d2ca01fa81e73a821d4fb885e933c80a19ffa519fd9fa6eae",
-        "fee": 0.005,
-        "R4": "04c60f",
-        "dec_in": 4,
-        "dec_out": 0
     },
     "EPOS": {
         "id": "00bd762484086cf560d3127eb53f0769d76244d9737636b2699d55c56cd470bf",
@@ -219,24 +183,6 @@
         "R4": "04c80f",
         "dec": 2
     },
-    "ergopad-$Lambo": {
-        "id_in": "d71693c49a84fbbecd4908c94813b46514b18b67a99952dc1e6e4791556de413",
-        "id_out": "0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91",
-        "pid": "250001313671cb53c6c48400f514766953ff35aa22653ba5b2932d63efd96f2a",
-        "lp": "3ec0ce2e0581b24d001a89942b805aef6cd7c5bcdac464c5fc9126e93bcb207e",
-        "fee": 0.003,
-        "R4": "04ca0f",
-        "dec_in": 2,
-        "dec_out": 0
-    },
-    "eRSN": {
-        "id": "dede2cf5c1a2966453ffec198a9b97b53d281e548903a905519b3525d59cdc3c",
-        "pid": "d8f1fda6a7cef48928b77f62a3be820dac7ab638ef8fb1561679a755053d5835",
-        "lp": "008c7638e15d4e1950b963b9f9b4519c1fd48fba30b2ce873376622c439120cf",
-        "fee": 0.003,
-        "R4": "04ca0f",
-        "dec": 3
-    },
     "FAKU": {
         "id": "f0cac602d618081f46db086726d3c4da53006b646b50e382989054dcf3c93bd8",
         "pid": "19ffcea554912ff555b1427b3c0a390ed54a2d11cff5b599a92234697508373a",
@@ -262,22 +208,6 @@
         "fee": 0.003,
         "R4": "04ca0f",
         "dec": 8
-    },
-    "Ganymedes": {
-        "id": "ba15c6b642a060599923a62aa6bc0dda9dcd750fa43bca4421c88e2f06ddd1b9",
-        "pid": "e21e8b87a7ed73a53e527ed96cf3d8a3ac08488bc21e361c2e7ed0bd3a9259b7",
-        "lp": "3702cf0a12e1f5b22887df8a32bc9cf95f383c2b334fad05168fab18a6ab1212",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 0
-    },
-    "GIF": {
-        "id": "843b5a2a0658550339c38f29827861fe459ce5206edaf17163113cccafc77af1",
-        "pid": "4d808c641ffcdb9cab2eaf7e81696009b56b4ff78dd8f29d6b102b3ad65d177e",
-        "lp": "6f8719eec45738b333a043c3d472560b0dc87b75c0a448d1387ba66c7d77f416",
-        "fee": 0.042,
-        "R4": "04fc0e",
-        "dec": 6
     },
     "GluonW GAU": {
         "id": "886b7721bef42f60c6317d37d8752da8aca01898cae7dae61808c4a14225edc8",
@@ -373,7 +303,7 @@
         "dec_in": 2,
         "dec_out": 4
     },
-    "Mi Goreng ": {
+    "Mi Goreng": {
         "id": "0779ec04f2fae64e87418a1ad917639d4668f78484f45df962b0dec14a2591d2",
         "pid": "fff5e73c7c8c61335d8c4ab18a2d09029e1c9131ed195c4e0ceccf9dd0c03d7f",
         "lp": "98da76cecb772029cfec3d53727d5ff37d5875691825fbba743464af0c89ce45",
@@ -495,16 +425,6 @@
         "R4": "04940f",
         "dec": 0
     },
-    "rsHOSKY-QUACKS": {
-        "id_in": "6ad70cdbf928a2bdd397041a36a5c2490a35beb4d20eabb5666f004b103c7189",
-        "id_out": "089990451bb430f05a85f4ef3bcb6ebf852b3d6ee68d86d78658b9ccef20074f",
-        "pid": "16ea6c99b4ee282f7413c4121405bcf2c50f32aec7fa4b4dc670334deded4b18",
-        "lp": "8651b4c3ead0b9b4f85ef12cec869f7e7ae6ee0d875baefb516eb83fe7a5abc4",
-        "fee": 0.003,
-        "R4": "04ca0f",
-        "dec_in": 0,
-        "dec_out": 6
-    },
     "rsIAG": {
         "id": "a50d95830f150f8ffb5da1a65e2313b1269807a855e30cd2f0b3fbaee0a47386",
         "pid": "0dfb8c95828e42b5298d26a20e7d4ba5e4ad515b532b68ac07be50f876bdb610",
@@ -556,14 +476,6 @@
         "fee": 0.01,
         "R4": "04bc0f",
         "dec": 0
-    },
-    "Rugged": {
-        "id": "19b14267d2d8c4896da958c6eb56aa07d7a55ef5fd71dab87a6534af47cc2a5a",
-        "pid": "7ebec69fda18ff475a045b5f23b7b9a05ac39ca4f5ac1d910a06ab33773e428f",
-        "lp": "e35d4eae7024fd0771453de9cd25f52250bea1219e1d6bf861f79cc0390e7c59",
-        "fee": 0.019,
-        "R4": "04aa0f",
-        "dec": 2
     },
     "Shaggy": {
         "id": "f100123eb4161919bc5e5b2ffe5fb91f7c93b524f372cbba5c7d6b004efa8106",
@@ -644,22 +556,6 @@
         "fee": 0.003,
         "R4": "04ca0f",
         "dec": 4
-    },
-    "The Dip": {
-        "id": "f19ec440fd7eeaa4cd2f31b2ada9c6f7aceabea487cf5a6a060c0fca7789e303",
-        "pid": "d90074c2dddb612473c590441fbe4c488b6cbe08d47f19edc0ac6f1d01830a7c",
-        "lp": "a47ce919feda08037f527f78728cc5262f60a816b25b63e6a04df6816499498c",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 0
-    },
-    "Troll": {
-        "id": "012c74dcd0920ce0c3f9f3945d509ea07b33872f3f144b816bcd7b664b22d5b3",
-        "pid": "ac1839f1aa34107dcdc4dc391e4a513c0297c158fadd122c9bb9c65291b88e6e",
-        "lp": "688106d5a6c1acb0fd83c09e59895702abf2afc2553a593af78cba6911f86964",
-        "fee": 0.01,
-        "R4": "04bc0f",
-        "dec": 0
     },
     "USE": {
         "id": "a55b8735ed1a99e46c2c89f8994aacdf4b1109bdcf682f1e5b34479c6e392669",
