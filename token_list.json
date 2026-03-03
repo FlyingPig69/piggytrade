@@ -425,10 +425,10 @@
     },
     "RSN": {
         "id": "8b08cdd5449a9592a9e79711d7d79249d7a03c535d17efaee83e216e80a44c4b",
-        "pid": "1b694b15467c62f0cd4525e368dbdea2329c713aa200b73df4a622e950551b40",
-        "lp": "469abf8b9c9d28807d11a9a018c75ce7879b77748c3e22182cfc34e3cf8a5338",
-        "fee": 0.003,
-        "R4": "04ca0f",
+        "pid": "cadac6db847a715e3577d8f2fbb2edfb2280f20924abf51bf83704a9ddc511b2",
+        "lp": "5cbbdf3a7b9525631d8bf6335c0756aa2eb93a9cf63c8207ccac058a64e6eaf0",
+        "fee": 0.01,
+        "R4": "04bc0f",
         "dec": 3
     },
     "RSN-rsADA": {
